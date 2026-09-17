@@ -30,7 +30,7 @@ Rather than relying on vague, one-off prompts, I adopted structured agent specif
 ## Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Brix-Daryl/stick-boxer.git](https://github.com/Brix-Daryl/stick-boxer.git)
+   git clone https://github.com/Brix-Daryl/stick-boxer.git
    cd stick-boxer/game
    ```
 
