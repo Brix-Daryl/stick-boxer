@@ -19,6 +19,7 @@ out/
 
 # AI agent caches, scratchpads & internal logs
 .agent/
+.agents/
 agent_outputs/
 ai_cache/
 *.log

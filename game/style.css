@@ -80,6 +80,16 @@ body {
   padding: 4px 10px;
   border-radius: 6px;
   color: #facc15;
+  text-align: center;
+}
+
+#round-label {
+  display: block;
+  color: #94a3b8;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  margin-bottom: 3px;
 }
 
 #stage {

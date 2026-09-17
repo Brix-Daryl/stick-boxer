@@ -5,6 +5,7 @@ A lightweight, responsive HTML5 canvas boxing game built as part of the Withcent
 ## Project Overview
 - **Game Concept**: A fast-paced tap-boxing reaction challenge featuring dynamic 2D canvas stickmen.
 - **Controls**: Mouse click and mobile touch compatible (Left side = Punch / Attack, Right side = Guard / Defend).
+- **Campaign**: Ten rounds use every boxer archetype in increasing difficulty: brawler, outfighter, counter-puncher, and slugger.
 - **AI Skill Integration**: Configured and balanced using an `agentskills.io` archetype generator skill.
 
 ## Repository Structure
